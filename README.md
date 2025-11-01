@@ -94,7 +94,7 @@ Enter text (stop to exit): fgsh
 Reader: FGSH
 Enter text (stop to exit): stop
 
-📁 Структура проєкту
+Структура проєкту
 lb5/
 ├── task1/
 │   ├── src/
